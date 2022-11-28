@@ -18,7 +18,7 @@ public class EsotilinProyecto {
         // TODO code application logic here
         System.out.println("ola carambolas");
         System.out.println("hola"):
-        sYstem.out.println("Suscribanse a ScCarlosCT");
+        System.out.println("Suscribanse a ScCarlosCT");
         
     }
     
